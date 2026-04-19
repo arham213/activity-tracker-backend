@@ -42,7 +42,7 @@ Create a `.env` file in the project root:
 
 ```env
 HF_TOKEN=your_huggingface_api_key
-ALLOWED_ORIGINS=http://localhost:5173
+ALLOWED_ORIGINS=your_frontend_url
 ```
 
 > `ALLOWED_ORIGINS` is a comma-separated list of allowed frontend URLs. For production, replace with your deployed frontend URL.
