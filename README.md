@@ -54,5 +54,5 @@ uvicorn main:app --reload
 See the [frontend README](https://github.com/arham213/activity-tracker-frontend#readme) for full frontend setup instructions.
 
 ---
-
+## Author
 [LinkedIn](https://linkedin.com/in/arhamasjid) · arhamasjid213@gmail.com
